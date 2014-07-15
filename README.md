@@ -1,2 +1,3 @@
 -C---SDL2--Framework--Failed-
 =============================
+This is the failed version! It's connected to my cplusplus.com forum...
